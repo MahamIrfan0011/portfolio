@@ -58,7 +58,7 @@ const BarChart = () => {
         position: 'top' as const,
         labels: {
           font: {
-            weight: 'bold' as 'bold',
+            weight: 'bold' as const,
           },
         },
       },
