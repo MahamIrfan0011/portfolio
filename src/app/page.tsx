@@ -70,12 +70,10 @@ export default function Home() {
     <div className="relative w-full md:w-[250px] h-[450px] -mt-12 md:-mt-52 mr-0 md:mr-32">
       <div className="absolute inset-0 bg-black opacity-30 rounded-3xl"></div>
       <img
-  src="profilepicture2.jpg"
-  alt="Profile Image"
-  className="object-cover w-full md:w-[250px] h-[450px] rounded-2xl transition-transform duration-500 ease-in-out transform hover:scale-110 animate-slide-left-right"
-/>
-
-
+        src="profilepicture2.jpg" // Ensure this path is correct
+        alt="Profile Image"
+        className="object-cover w-full md:w-[250px] h-[450px] rounded-2xl transition-transform duration-500 ease-in-out transform hover:scale-110 hover:shadow-2xl animate-slide-left-right"
+      />
     </div>
   </div>
 
