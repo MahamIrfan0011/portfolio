@@ -59,7 +59,7 @@ export default function Home() {
 
   {/* Main Content with Profile Image */}
   <div className="flex flex-col md:flex-row items-center justify-between px-4 md:px-10 mt-12">
-    <p className="text-white text-bold w-full md:w-1/2 -mt-12 md:-mt-24 pl-4 md:pl-16">
+    <p className="w-18 h-60 text-white text-bold w-full md:w-1/2 -mt-12 md:-mt-12 pl-4 md:pl-16">
       "Hi, I'm <span className="text-[rgb(191,139,240)]">Maham</span>, a
       passionate Web Developer, 2D Animator, and Graphic Designer. I
       specialize in creating visually stunning websites, bringing characters
@@ -105,7 +105,7 @@ export default function Home() {
   <img
     src="/profilepicture3.jpg" // Ensure this path is correct
     alt="Profile Picture"
-    className="w-60 h-60 sm:w-48 sm:h-48 object-cover rounded-full shadow-lg transition-transform duration-500 ease-in-out hover:scale-110"
+    className="w-60 h-60 sm:w-28 sm:h-28 object-cover rounded-full shadow-lg transition-transform duration-500 ease-in-out hover:scale-110"
   />
 </div>
 
@@ -148,6 +148,9 @@ export default function Home() {
       <Cards image="/figma1.png" title="Figma Design" description="I created a Figma-like design tool using Tailwind CSS and Next.js." githubLink="https://github.com/MahamIrfan0011/figma-design" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7267113262054297600/?originTrackingId=ae5DU9VpQ02%2FEZfcRJ%2BmOA%3D%3D"/>
       <Cards image="/project.png" title="Furniture Website (Figma)" description="I created a fully responsive Figma-like design tool using Tailwind CSS and Next.js." githubLink="https://github.com/MahamIrfan0011/hackathon2" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7272261943329968128/?originTrackingId=QI6aHemfSCqfr1vA52xHJg%3D%3D"/>
       <Cards image="/figma-design.png" title="Figma Design" description="I created a Figma-like design tool using Tailwind CSS and Next.js." githubLink="https://github.com/MahamIrfan0011/figma" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7275876510949928961/?originTrackingId=vI6xK6WHQHiP7be1KssWhA%3D%3D"/>
+      <Cards image="/pet-care.jpg" title="Pet Care Website" description="Created pet care website using Tailwind CSS and Next.js." githubLink="https://github.com/MahamIrfan0011/pet-care-website" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7286685590123671554/"/>
+      <Cards image="/blog.jpeg" title="Dynamic Blog" description="I created a dynamic blog using Tailwind CSS, Next.js and sanity." githubLink="https://github.com/MahamIrfan0011/dynamic-blog" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7294058447749234688/"/>
+      <Cards image="/project.png" title="Final Furniture Website" description="I created a fully responsive Figma-like design tool using Tailwind CSS and Next.js and add functionalities of website using sanity and API." githubLink="https://github.com/MahamIrfan0011/final-project-hackathon" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7293977910367940608/"/>
     </div>
   </div>
 
