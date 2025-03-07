@@ -151,8 +151,12 @@ export default function Home() {
       <Cards image="/pet-care.jpg" title="Pet Care Website" description="Created pet care website using Tailwind CSS and Next.js." githubLink="https://github.com/MahamIrfan0011/pet-care-website" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7286685590123671554/"/>
       <Cards image="/blog.jpeg" title="Dynamic Blog" description="I created a dynamic blog using Tailwind CSS, Next.js and sanity." githubLink="https://github.com/MahamIrfan0011/dynamic-blog" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7294058447749234688/"/>
       <Cards image="/project.png" title="Final Furniture Website" description="I created a fully responsive Figma-like design tool using Tailwind CSS and Next.js and add functionalities of website using sanity and API." githubLink="https://github.com/MahamIrfan0011/final-project-hackathon" linkedinLink="https://www.linkedin.com/feed/update/urn:li:activity:7293977910367940608/"/>
+      <Cards image="/data sweep.jpg" title="Data Sweeper" description="Developed an interactive project (Data Sweeper) using Streamlit, integrating data visualization and user-friendly UI for seamless functionality." githubLink="https://github.com/MahamIrfan0011/streamlit-data-sweeper" />
+     <Cards image="/unit-converter.jpg" title="Unit Converter" description="Developed an interactive project (Unit Converter) using Streamlit, integrating data visualization and user-friendly UI for seamless functionality." githubLink="https://github.com/MahamIrfan0011/streamlit-unit-convertor"/>
+    <Cards image="/password.jpg" title="Password Strength Meter" description="Developed an interactive project (Password strength meter) using Streamlit, integrating data visualization and user-friendly UI for seamless functionality." githubLink="https://github.com/MahamIrfan0011/streamlit-password-strength-meter"/>
     </div>
-  </div>
+    </div>
+  
 
   <div className="w-full min-h-screen bg-[#000021]" id="contact">
     <ContactCards />

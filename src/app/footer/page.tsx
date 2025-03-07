@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="border-t border-white w-full my-4 -mt-2"></div>
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-start mt-10">
         {/* Navigation */}
-        <div className="flex flex-row md:flex-col mb-4 md:mb-0 pl-64">
+        <div className="flex flex-row md:flex-col mb-4 md:mb-0 pl-56 text-sm">
           <ul className="flex flex-row -ml-52 md:flex-col lg:ml-0 space-x-4 md:space-x-0 md:space-y-4">
             <li>
               <a href="/" className="text-white hover:underline">Home</a>
