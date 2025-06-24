@@ -154,6 +154,7 @@ export default function Home() {
       <Cards image="/data sweep.jpg" title="Data Sweeper" description="Developed an interactive project (Data Sweeper) using Streamlit, integrating data visualization and user-friendly UI for seamless functionality." githubLink="https://github.com/MahamIrfan0011/streamlit-data-sweeper" />
      <Cards image="/unit-converter.jpg" title="Unit Converter" description="Developed an interactive project (Unit Converter) using Streamlit, integrating data visualization and user-friendly UI for seamless functionality." githubLink="https://github.com/MahamIrfan0011/streamlit-unit-convertor"/>
     <Cards image="/password.jpg" title="Password Strength Meter" description="Developed an interactive project (Password strength meter) using Streamlit, integrating data visualization and user-friendly UI for seamless functionality." githubLink="https://github.com/MahamIrfan0011/streamlit-password-strength-meter"/>
+    <Cards image="/Doc1.jpg" title="Food Website" description="Created an interactive project using Next.js, Typescript and styled with Tailwind CSS, combines delightful animations to showcase my skills.It's a full responsive website for mobiles, tabs, and desktop screen" githubLink="https://github.com/MahamIrfan0011/food-website"/>
     </div>
     </div>
   
